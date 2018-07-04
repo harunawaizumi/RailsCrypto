@@ -183,6 +183,7 @@ DEPENDENCIES
   devise (~> 4.4, >= 4.4.3)
   jbuilder (~> 2.0)
   jquery-rails
+  nokogiri (~> 1.6)
   pg (~> 0.21.0)
   rails (= 4.2.5)
   rails_12factor (~> 0.0.3)
