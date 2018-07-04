@@ -9,7 +9,8 @@
     <% for coin in @my_coins %>
         <% if coin == x["symbol"] %>
             <%= x["name"] %>: $<%= x["price_usd"] %><br />
-            Rank: <%= x["rank"] %><br/><br/>
+            Rank: <%= x["rank"] %><br/>
+            <br/>
         <% end %>
      <% end %>
 <% end %>
