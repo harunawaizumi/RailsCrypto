@@ -5,7 +5,7 @@ I built the first web app "Crypto Currency Portfolio" on Ruby.
 This is based on [this tutorial](https://www.udemy.com/build-a-crypto-currency-portfolio-app-with-ruby-on-rails/learn/v4/overview). 
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](http://www.youtube.com/watch?v=RGSIQ5LoKuU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://j.gifs.com/XozDkV.gif)
 
 
 ## Description
