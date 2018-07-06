@@ -28,4 +28,4 @@ group :production do
   gem 'rails_12factor', '~> 0.0.3'
 end
 
-ruby '2.3.7'
+ruby '2.3.4'
