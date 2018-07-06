@@ -4,6 +4,8 @@ A small simple Crypto Portfolio App on Ruby On Rails
 I built the first web app "Crypto Currency Portfolio" on Ruby.
 This is based on [this tutorial](https://www.udemy.com/build-a-crypto-currency-portfolio-app-with-ruby-on-rails/learn/v4/overview). 
 
+### [Live Demo](https://crypto41.herokuapp.com/)
+
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://j.gifs.com/XozDkV.gif)
 
